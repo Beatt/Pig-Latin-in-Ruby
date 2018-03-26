@@ -1,0 +1,18 @@
+OJO
+El test test_word_beginning_with_yt, test_word_beginning_with_xr y test_a_whole_phrase faltaron.
+Como referencia se utilizo parte del algoritmo utilizando en http://www.snowcrest.net/donnelly/piglatin.html
+
+JUSTIFICACIÓN
+1- La documentación exhaustiva causa que sea en ciertos casos difícil de leer el código.
+Por lo cual, los nombres de las variables expresan lo que deben de contener y las funciones
+lo que deben de hacer.
+
+2- Se declaron constantes para que de esta forma se entienda que representan y no queden
+en código duro, lo que puede causar que no sepamos su significado dentro del código.
+
+3- Tener muy en cuenta el principio de KISS (Keep It Simple, Stupid) cuando
+   desarrollemos.
+
+
+
+
